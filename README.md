@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋 I'm Zeeni 
+🌱 I’m currently learning at Generation Singapore as a Junior Data Engineer
+🔭 I’m currently working on my GitHub portfolio
 
 <!--
 **zeenilx/zeenilx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
