@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Zeeni Lee</h1>
+<h1 align="left">Hi 👋, I'm Xinni Lee</h1>
 <p>🌱 I’m currently learning at Generation Singapore as a Junior Data Engineer</p>
 🔭 I’m currently working on on my GitHub portfolio
 
