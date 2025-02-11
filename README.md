@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Xinni Lee</h1>
 <p>🌱 I’m currently learning at Generation Singapore as a Junior Data Engineer</p>
-🔭 I’m currently working on on my GitHub portfolio</p>
+🔭 I’m working on on my GitHub portfolio and some mini projects. Excited to share them soon!</p>
 <p>
 ⚡ Unlike a penguin, I'm a slightly introvert at heart - quietly thriving in my own space but always ready to huddle up and collaborate when the need arises. I’m not aggressive, but I’ll definitely be there with my team, working hard and keeping things cool under pressure. Just like penguins, I’m all about finding the perfect balance between solo reflection and group support!
 
